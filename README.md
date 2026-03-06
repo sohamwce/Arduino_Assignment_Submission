@@ -1,11 +1,5 @@
 # Arduino Assignment
 
-This repository contains two implementations using direct register access on ATmega328P.
-
-Branches:
-- `GPIO_dev`
-- `UART_dev`
-
 ---
 
 ## GPIO_dev
