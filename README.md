@@ -2,7 +2,7 @@
 
 ---
 
-## GPIO_dev
+## 1.GPIO_dev
 
 Blinking the onboard LED (PB5 / Arduino Pin 13) using Timer1 based delay.
 
@@ -21,7 +21,7 @@ PB5 is set as output and toggled every ~500 ms using Timer1 overflow.
 
 ---
 
-## UART_dev
+## 2.UART_dev
 
 UART transmission using register-level configuration.
 
